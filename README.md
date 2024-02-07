@@ -1,4 +1,6 @@
-## [Landwind - Tailwind CSS Landing Page](https://demo.themesberg.com/landwind/)
+# FORK
+
+## [Landwind - Tailwind CSS Landing Page](https://F2-Treinamentos.github.io/DZAD-Landwind)
 
 <a href="https://demo.themesberg.com/landwind/" rel="Tailwind CSS Landing Page">![Tailwind CSS Landing Page Demo - Flowbite](https://themesberg.s3.us-east-2.amazonaws.com/public/github/landwind/thumbnail.png)</a>
 
@@ -10,7 +12,7 @@ Built with ❤️ by [Themesberg](https://themesberg.com) based on Tailwind CSS 
 
 Check out a live demo by clicking here:
 
-🔗 [Landwind live preview](https://demo.themesberg.com/landwind/) (🌗 switch on dark mode using your computer preferences)
+🔗 [Landwind live preview](https://F2-Treinamentos.github.io/DZAD-Landwind) (🌗 switch on dark mode using your computer preferences)
 
 ## Getting started
 
@@ -49,3 +51,6 @@ We build free and premium themes with technologies such as Bootstrap, React, Tai
 ## License
 
 This project is open source under the MIT license.
+
+## Links
+- [Original](https://demo.themesberg.com/landwind/)
