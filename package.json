@@ -4,7 +4,10 @@
   "description": "Landwind is a free and open-source landing page built with Tailwind CSS and Flowbite for SaaS and product websites.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
@@ -33,6 +36,7 @@
     "tailwindcss": "^3.1.4"
   },
   "dependencies": {
-    "flowbite": "^1.4.7"
+    "flowbite": "^1.8.1",
+    "vite": "^5.0.12"
   }
 }
